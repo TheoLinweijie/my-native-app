@@ -1,0 +1,29 @@
+{
+    "expo": {
+     "name": "Moview App",
+     "slug": "my-native-app",
+         "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "sdkVersion":"36.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+     "ios": {
+       "bundleIdentifier": "com.weijie.myapp",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "com.weijie.myapp",
+       "versionCode": 1
+     }
+    }
+}
