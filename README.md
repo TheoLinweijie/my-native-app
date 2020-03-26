@@ -47,3 +47,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 ![Search Movie](https://github.com/TheoLinweijie/my-native-app/raw/master/imagefile/search.png)
 ![Movie Details](https://github.com/TheoLinweijie/my-native-app/raw/master/imagefile/moviedetail.png)
 ![People Details](https://github.com/TheoLinweijie/my-native-app/raw/master/imagefile/peopledetail.png)
+
+:video_camera:[Tutorial Video](https://youtu.be/0LH0tcTD1sg)
